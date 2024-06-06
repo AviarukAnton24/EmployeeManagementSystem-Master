@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\30100\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD2460F-11D8-490E-BAFC-64ACAF98BE14}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeInfo.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM0BAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:24:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\RegisterForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\RegisterForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:18:52.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementSystem\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:18:49.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\database.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\database.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\database.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\database.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:12:27.137Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA2wFUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T10:44:50.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Salary.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Salary.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Salary.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-03T12:33:57.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Salary.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Salary.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-03T12:46:08.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeInfo.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:10:37.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\DashBoard.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\DashBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementSystem\\DashBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-03T11:23:33.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\DashBoard.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\DashBoard.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DashBoard.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-03T11:38:29.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T18:32:36.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-04T18:32:00.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
